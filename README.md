@@ -11,9 +11,9 @@ The script `imdb_data_finetuning_deepspeed.py` can be run as follows:
 
 Here are the results: 
 
-https://wandb.ai/hpml3/roberta_4_gpu_4_cpu_32_bs/reports/Bert-vs-Roberta-4-4-32--Vmlldzo0MzM1NjIw
-https://wandb.ai/hpml3/bert_4_gpu_4_cpu_32_bs/reports/Bert-vs-Roberta-4-4-8--Vmlldzo0MzM1NjEz
-https://wandb.ai/hpml3/bert_1_gpu_2_cpu_32_bs/reports/Bert-1-2-32-vs-2-4-32-vs-4-4-32--Vmlldzo0MzM0OTkw
-https://wandb.ai/hpml3/roberta_2_gpu_4_cpu_32_bs/reports/Roberta-2-4-8-vs-2-4-32--Vmlldzo0MzM0ODUz
-https://wandb.ai/hpml3/roberta_1_gpu_2_cpu_32_bs/reports/Roberta-2vs4-CPUs--Vmlldzo0MzM0NjI1
-https://wandb.ai/hpml3/roberta_4_gpu_4_cpu_8_bs/reports/Roberta-2-4-8-vs-4-4-8--Vmlldzo0MzM0ODk1
+- https://wandb.ai/hpml3/roberta_4_gpu_4_cpu_32_bs/reports/Bert-vs-Roberta-4-4-32--Vmlldzo0MzM1NjIw
+- https://wandb.ai/hpml3/bert_4_gpu_4_cpu_32_bs/reports/Bert-vs-Roberta-4-4-8--Vmlldzo0MzM1NjEz
+- https://wandb.ai/hpml3/bert_1_gpu_2_cpu_32_bs/reports/Bert-1-2-32-vs-2-4-32-vs-4-4-32--Vmlldzo0MzM0OTkw
+- https://wandb.ai/hpml3/roberta_2_gpu_4_cpu_32_bs/reports/Roberta-2-4-8-vs-2-4-32--Vmlldzo0MzM0ODUz
+- https://wandb.ai/hpml3/roberta_1_gpu_2_cpu_32_bs/reports/Roberta-2vs4-CPUs--Vmlldzo0MzM0NjI1
+- https://wandb.ai/hpml3/roberta_4_gpu_4_cpu_8_bs/reports/Roberta-2-4-8-vs-4-4-8--Vmlldzo0MzM0ODk1
